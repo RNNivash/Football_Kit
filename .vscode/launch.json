@@ -1,0 +1,9 @@
+{
+    "type": "chrome",
+    "request": "launch",
+    "name": "Launch Chrome",
+    "url": "http://localhost:3000",
+    "webRoot": "${workspaceFolder}",
+    "runtimeExecutable": "/path/to/chrome/executable" // Update this path
+  }
+  
